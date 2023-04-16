@@ -10,7 +10,7 @@
 
 </div>
 
-<h1>
+<h1 align="centerc>
 
   hey there
 
