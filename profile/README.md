@@ -12,7 +12,7 @@
 </div>
 
 
-<h1 align="center" style="color: red;">
+<h1 align="center" style="font-color: #FF0000;">
 
   We are Mercenary Labs
 
