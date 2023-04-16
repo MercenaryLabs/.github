@@ -21,7 +21,7 @@
 </h1>
 
 ---
-
-### About us :
-
+<div align="center">
+About us :
+</div>
 
