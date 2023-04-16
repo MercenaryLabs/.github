@@ -20,4 +20,8 @@
 
 </h1>
 
+---
+
+### :woman_technologist: About us :
+
 
