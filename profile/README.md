@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=MercenaryLabs&style=flat-square&color=red" alt=""/>
 
 </div align="center>
-  <h1>
+<h1>
 
   hey there
 
