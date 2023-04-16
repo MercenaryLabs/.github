@@ -22,6 +22,6 @@
 
 ---
 <div align="center">
-About us :
+<h2>About us :</h2>
 </div>
 
