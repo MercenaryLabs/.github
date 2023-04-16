@@ -22,6 +22,6 @@
 
 ---
 
-### :woman_technologist: About us :
+### About us :
 
 
