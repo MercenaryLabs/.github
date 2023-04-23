@@ -22,6 +22,6 @@
 
 ---
 <div align="center">
-   <h2>About us :</h2>
+   <h2>SECURITY - INTELLIGENCE - DEVELOPMENT</h2>
 </div>
 
